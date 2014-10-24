@@ -1,0 +1,26 @@
+Todo's
+
+check if all answers are present before adding another
+on home menu have button popovers for what visable, live, url, and results mean
+
+set flash data for create, and survey
+
+
+DBname: asimples_quicksurveyinfo
+username: asimples_admin
+password: 3IWggN2avR@9p*Qsn1
+
+username: asimples_user
+password: 74D*u1cUUygK&NXS*x
+
+FTP 
+quicksurveyinfo.com
+Server: ftp.quicksurveyinfo.com
+FTP username: tony@quicksurveyinfo.com
+Password: &8@*j12oFpVeD6GP%o
+Port: 21
+
+
+guest user
+//example@test.com
+//P@ssw0rd

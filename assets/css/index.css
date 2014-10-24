@@ -1,0 +1,44 @@
+.container {
+	margin-top: 70px;
+}
+
+.jumbotron {
+	background-color: darkgray;
+	color: white;
+	text-align: center;
+}
+
+.list {
+	position: fixed;
+	list-style: none;
+}
+
+body {
+	position: relative;
+}
+
+.qlist {
+	margin-left: 20px;
+}
+
+.user_input, .has-feedback {
+	margin-bottom: 0px;
+}
+
+h6 {
+	margin-top: 4px;
+	margin-bottom: 0px;
+}
+
+textarea {
+	resize: vertical;
+}
+
+#submit {
+	margin-top: 40px;
+	margin-bottom: 100px;
+}
+
+.panel-heading {
+    cursor: pointer;
+}
